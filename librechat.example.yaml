@@ -159,7 +159,7 @@ registration:
 # Example Actions Object Structure
 actions:
   allowedDomains:
-    - 'swapi.dev'
+    # - 'swapi.dev'
     - 'librechat.ai'
     - 'google.com'
 
